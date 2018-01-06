@@ -1,0 +1,9 @@
+Ford macierz  Gestosc: 1 ilosc: 200 czas: 0.0312
+Ford macierz  Gestosc: 1 ilosc: 400 czas: 0.2426
+Ford macierz  Gestosc: 1 ilosc: 600 czas: 0.8063
+Ford macierz  Gestosc: 1 ilosc: 800 czas: 1.9046
+Ford macierz  Gestosc: 1 ilosc: 1000 czas: 3.8892
+Ford macierz  Gestosc: 1 ilosc: 1200 czas: 6.9015
+Ford macierz  Gestosc: 1 ilosc: 1400 czas: 10.8986
+Ford macierz  Gestosc: 1 ilosc: 1600 czas: 16.4046
+Ford macierz  Gestosc: 1 ilosc: 1800 czas: 23.7782

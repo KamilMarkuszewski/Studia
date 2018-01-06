@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>korale</label>
+	</settings>
+	<users>
+		<user>
+			<path>korale.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>korale.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,18 @@
+﻿Build started 2010-12-18 16:30:39.
+Project "D:\Download\SW\SW\SW\SW.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Touching "Debug\SW.unsuccessfulbuild".
+ClCompile:
+  All outputs are up-to-date.
+  D:\Programy\visual\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\SW.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Problem.cpp
+  Problem.cpp
+d:\download\sw\sw\sw\problem.cpp(35): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\download\sw\sw\sw\problem.cpp(35): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\download\sw\sw\sw\problem.cpp(63): error C2664: 'Problem::zapiszPerm' : cannot convert parameter 2 from 'float' to 'int *'
+d:\download\sw\sw\sw\problem.cpp(86): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\download\sw\sw\sw\problem.cpp(185): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+Done Building Project "D:\Download\SW\SW\SW\SW.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.89

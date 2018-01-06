@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SW">
+</Property><Property Name="Solution File" Value="D:\Download\SW\SW\SW.sln">
+</Property><Property Name="User Options File" Value="D:\Download\SW\SW\SW.suo">
+</Property><Property Name="Date" Value="18 grudnia 2010">
+</Property><Property Name="Time" Value="15:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SW.sln" Description="File successfully backed up as D:\Download\SW\SW\SW.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="SW.suo" Description="File successfully backed up as D:\Download\SW\SW\SW.suo.old">
+</Event><Event ErrorLevel="0" Project="SW" Source="SW\SW.vcproj" Description="Converting project file 'D:\Download\SW\SW\SW\SW.vcproj'.">
+</Event><Event ErrorLevel="1" Project="SW" Source="SW\SW.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="SW" Source="SW\SW.vcproj" Description="Done converting to new project file 'D:\Download\SW\SW\SW\SW.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="SW" Source="SW\SW.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SW.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SW.sln" Description="Converted">
+</Event></UpgradeLog>

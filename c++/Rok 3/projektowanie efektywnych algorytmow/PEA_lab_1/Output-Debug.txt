@@ -1,0 +1,12 @@
+'PEA_lab_1.exe': Loaded 'C:\Documents and Settings\User\Moje dokumenty\Visual Studio 2005\Projects\PEA_lab_1\release\PEA_lab_1.exe', Symbols loaded.
+'PEA_lab_1.exe': Loaded 'C:\WINDOWS\system32\ntdll.dll', No symbols loaded.
+'PEA_lab_1.exe': Loaded 'C:\WINDOWS\system32\kernel32.dll', No symbols loaded.
+'PEA_lab_1.exe': Loaded 'C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.3053_x-ww_b80fa8ca\msvcp80.dll', No symbols loaded.
+'PEA_lab_1.exe': Loaded 'C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.3053_x-ww_b80fa8ca\msvcr80.dll', No symbols loaded.
+'PEA_lab_1.exe': Loaded 'C:\WINDOWS\system32\msvcrt.dll', No symbols loaded.
+'PEA_lab_1.exe': Loaded 'C:\WINDOWS\system32\apphelp.dll', No symbols loaded.
+'PEA_lab_1.exe': Loaded 'C:\WINDOWS\system32\version.dll', No symbols loaded.
+'PEA_lab_1.exe': Loaded 'C:\WINDOWS\system32\advapi32.dll', No symbols loaded.
+'PEA_lab_1.exe': Loaded 'C:\WINDOWS\system32\rpcrt4.dll', No symbols loaded.
+'PEA_lab_1.exe': Loaded 'C:\WINDOWS\system32\secur32.dll', No symbols loaded.
+The program '[312340] PEA_lab_1.exe: Native' has exited with code 0 (0x0).

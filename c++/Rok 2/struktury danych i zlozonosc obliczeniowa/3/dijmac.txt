@@ -1,0 +1,9 @@
+Dij macierz  Gestosc: 1 ilosc: 200 czas: 0.0016
+Dij macierz  Gestosc: 1 ilosc: 400 czas: 0
+Dij macierz  Gestosc: 1 ilosc: 600 czas: 0.003
+Dij macierz  Gestosc: 1 ilosc: 800 czas: 0.003
+Dij macierz  Gestosc: 1 ilosc: 1000 czas: 0.0046
+Dij macierz  Gestosc: 1 ilosc: 1200 czas: 0.0077
+Dij macierz  Gestosc: 1 ilosc: 1400 czas: 0.0062
+Dij macierz  Gestosc: 1 ilosc: 1600 czas: 0.011
+Dij macierz  Gestosc: 1 ilosc: 1800 czas: 0.0157

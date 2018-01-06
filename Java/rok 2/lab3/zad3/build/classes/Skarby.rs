@@ -1,0 +1,2 @@
+WidokKolekcji
+Skarby

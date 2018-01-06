@@ -1,0 +1,65 @@
+
+-----------------
+ Rozmiar plecaka: 2000
+ Ilosc elementow: 5000 Pomiar: 0.1404
+ Ilosc elementow: 10000 Pomiar: 0.281
+ Ilosc elementow: 15000 Pomiar: 0.4218
+ Ilosc elementow: 20000 Pomiar: 0.5673
+ Ilosc elementow: 25000 Pomiar: 0.7062
+ Ilosc elementow: 30000 Pomiar: 0.8516
+ Ilosc elementow: 35000 Pomiar: 1.0015
+ Ilosc elementow: 40000 Pomiar: 1.1343
+ Ilosc elementow: 45000 Pomiar: 1.2685
+ Ilosc elementow: 50000 Pomiar: 1.4045
+
+-----------------
+ Rozmiar plecaka: 4000
+ Ilosc elementow: 5000 Pomiar: 0.2984
+ Ilosc elementow: 10000 Pomiar: 0.5953
+ Ilosc elementow: 15000 Pomiar: 0.8902
+ Ilosc elementow: 20000 Pomiar: 1.1843
+ Ilosc elementow: 25000 Pomiar: 1.4874
+ Ilosc elementow: 30000 Pomiar: 1.7936
+ Ilosc elementow: 35000 Pomiar: 2.0985
+ Ilosc elementow: 40000 Pomiar: 2.3781
+ Ilosc elementow: 45000 Pomiar: 2.7048
+ Ilosc elementow: 50000 Pomiar: 2.9937
+
+-----------------
+ Rozmiar plecaka: 6000
+ Ilosc elementow: 5000 Pomiar: 0.4673
+ Ilosc elementow: 10000 Pomiar: 0.9488
+ Ilosc elementow: 15000 Pomiar: 1.4045
+ Ilosc elementow: 20000 Pomiar: 1.8578
+ Ilosc elementow: 25000 Pomiar: 2.3438
+ Ilosc elementow: 30000 Pomiar: 2.7972
+ Ilosc elementow: 35000 Pomiar: 3.2673
+ Ilosc elementow: 40000 Pomiar: 3.6938
+ Ilosc elementow: 45000 Pomiar: 4.1579
+ Ilosc elementow: 50000 Pomiar: 4.6281
+
+-----------------
+ Rozmiar plecaka: 8000
+ Ilosc elementow: 5000 Pomiar: 0.6373
+ Ilosc elementow: 10000 Pomiar: 1.2813
+ Ilosc elementow: 15000 Pomiar: 1.9298
+ Ilosc elementow: 20000 Pomiar: 2.5579
+ Ilosc elementow: 25000 Pomiar: 3.2002
+ Ilosc elementow: 30000 Pomiar: 3.8438
+ Ilosc elementow: 35000 Pomiar: 4.5376
+ Ilosc elementow: 40000 Pomiar: 7.0702
+ Ilosc elementow: 45000 Pomiar: 9.2265
+ Ilosc elementow: 50000 Pomiar: 10.4142
+
+-----------------
+ Rozmiar plecaka: 10000
+ Ilosc elementow: 5000 Pomiar: 0.8219
+ Ilosc elementow: 10000 Pomiar: 1.65
+ Ilosc elementow: 15000 Pomiar: 2.4829
+ Ilosc elementow: 20000 Pomiar: 3.3077
+ Ilosc elementow: 25000 Pomiar: 4.125
+ Ilosc elementow: 30000 Pomiar: 4.9625
+ Ilosc elementow: 35000 Pomiar: 5.792
+ Ilosc elementow: 40000 Pomiar: 6.6046
+ Ilosc elementow: 45000 Pomiar: 19.5906
+ Ilosc elementow: 50000 Pomiar: 84.2219

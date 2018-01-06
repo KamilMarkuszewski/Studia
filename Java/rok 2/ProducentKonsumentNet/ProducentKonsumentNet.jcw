@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ProducentKonsumentNet</label>
+	</settings>
+	<users>
+		<user>
+			<path>ProducentKonsumentNet.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ProducentKonsumentNet.jcp</path>
+		</project>
+	</projects>
+</workspace>

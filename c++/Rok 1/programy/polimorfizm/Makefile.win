@@ -1,0 +1,39 @@
+# Project: Project1
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = main.o T_el.o T_listy.o T_listydwu.o $(RES)
+LINKOBJ  = main.o T_el.o T_listy.o T_listydwu.o $(RES)
+LIBS =  -L"D:/Programy/Dev-Cpp/lib"  
+INCS =  -I"D:/Programy/Dev-Cpp/include" 
+CXXINCS =  -I"D:/Programy/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"D:/Programy/Dev-Cpp/include/c++/3.4.2/backward"  -I"D:/Programy/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"D:/Programy/Dev-Cpp/include/c++/3.4.2"  -I"D:/Programy/Dev-Cpp/include" 
+BIN  = Project1.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before Project1.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "Project1.exe" $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+T_el.o: T_el.cpp
+	$(CPP) -c T_el.cpp -o T_el.o $(CXXFLAGS)
+
+T_listy.o: T_listy.cpp
+	$(CPP) -c T_listy.cpp -o T_listy.o $(CXXFLAGS)
+
+T_listydwu.o: T_listydwu.cpp
+	$(CPP) -c T_listydwu.cpp -o T_listydwu.o $(CXXFLAGS)

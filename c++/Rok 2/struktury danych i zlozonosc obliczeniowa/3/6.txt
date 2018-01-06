@@ -1,0 +1,9 @@
+Ford lista  Gestosc: 1 ilosc: 200 czas: 0.0079
+Ford lista  Gestosc: 1 ilosc: 400 czas: 0.0377
+Ford lista  Gestosc: 1 ilosc: 600 czas: 0.0891
+Ford lista  Gestosc: 1 ilosc: 800 czas: 0.1468
+Ford lista  Gestosc: 1 ilosc: 1000 czas: 0.2171
+Ford lista  Gestosc: 1 ilosc: 1200 czas: 0.314
+Ford lista  Gestosc: 1 ilosc: 1400 czas: 0.439
+Ford lista  Gestosc: 1 ilosc: 1600 czas: 0.5827
+Ford lista  Gestosc: 1 ilosc: 1800 czas: 0.7767

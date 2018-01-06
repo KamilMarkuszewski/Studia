@@ -1,0 +1,180 @@
+
+ --------------------------------- 
+
+ 50 instancji problemu po 50 zadan 
+
+ Czas podany w ms! 
+
+ Czas wykonywania 50 instancji edd: 0.000000 
+
+ Czas wykonywania 50 instancji moore: 0.000000 
+
+ Czas wykonywania 50 instancji neh: 16.000000 
+
+ Czas wykonywania edd: 0.000000 
+
+ Czas wykonywania moore: 0.000000 
+
+ Czas wykonywania neh: 0.320000 
+
+ --------------------------------- 
+
+ 50 instancji problemu po 100 zadan 
+
+ Czas podany w ms! 
+
+ Czas wykonywania 50 instancji edd: 0.000000 
+
+ Czas wykonywania 50 instancji moore: 0.000000 
+
+ Czas wykonywania 50 instancji neh: 110.000000 
+
+ Czas wykonywania edd: 0.000000 
+
+ Czas wykonywania moore: 0.000000 
+
+ Czas wykonywania neh: 2.200000 
+
+ --------------------------------- 
+
+ 50 instancji problemu po 150 zadan 
+
+ Czas podany w ms! 
+
+ Czas wykonywania 50 instancji edd: 0.000000 
+
+ Czas wykonywania 50 instancji moore: 0.000000 
+
+ Czas wykonywania 50 instancji neh: 344.000000 
+
+ Czas wykonywania edd: 0.000000 
+
+ Czas wykonywania moore: 0.000000 
+
+ Czas wykonywania neh: 6.880000 
+
+ --------------------------------- 
+
+ 50 instancji problemu po 200 zadan 
+
+ Czas podany w ms! 
+
+ Czas wykonywania 50 instancji edd: 0.000000 
+
+ Czas wykonywania 50 instancji moore: 0.000000 
+
+ Czas wykonywania 50 instancji neh: 876.000000 
+
+ Czas wykonywania edd: 0.000000 
+
+ Czas wykonywania moore: 0.000000 
+
+ Czas wykonywania neh: 17.520000 
+
+ --------------------------------- 
+
+ 50 instancji problemu po 250 zadan 
+
+ Czas podany w ms! 
+
+ Czas wykonywania 50 instancji edd: 0.000000 
+
+ Czas wykonywania 50 instancji moore: 0.000000 
+
+ Czas wykonywania 50 instancji neh: 2000.000000 
+
+ Czas wykonywania edd: 0.000000 
+
+ Czas wykonywania moore: 0.000000 
+
+ Czas wykonywania neh: 40.000000 
+
+ --------------------------------- 
+
+ 50 instancji problemu po 300 zadan 
+
+ Czas podany w ms! 
+
+ Czas wykonywania 50 instancji edd: 0.000000 
+
+ Czas wykonywania 50 instancji moore: 0.000000 
+
+ Czas wykonywania 50 instancji neh: 3749.000000 
+
+ Czas wykonywania edd: 0.000000 
+
+ Czas wykonywania moore: 0.000000 
+
+ Czas wykonywania neh: 74.980000 
+
+ --------------------------------- 
+
+ 50 instancji problemu po 350 zadan 
+
+ Czas podany w ms! 
+
+ Czas wykonywania 50 instancji edd: 0.000000 
+
+ Czas wykonywania 50 instancji moore: 0.000000 
+
+ Czas wykonywania 50 instancji neh: 6592.000000 
+
+ Czas wykonywania edd: 0.000000 
+
+ Czas wykonywania moore: 0.000000 
+
+ Czas wykonywania neh: 131.840000 
+
+ --------------------------------- 
+
+ 50 instancji problemu po 400 zadan 
+
+ Czas podany w ms! 
+
+ Czas wykonywania 50 instancji edd: 0.000000 
+
+ Czas wykonywania 50 instancji moore: 0.000000 
+
+ Czas wykonywania 50 instancji neh: 10765.000000 
+
+ Czas wykonywania edd: 0.000000 
+
+ Czas wykonywania moore: 0.000000 
+
+ Czas wykonywania neh: 215.300000 
+
+ --------------------------------- 
+
+ 50 instancji problemu po 450 zadan 
+
+ Czas podany w ms! 
+
+ Czas wykonywania 50 instancji edd: 0.000000 
+
+ Czas wykonywania 50 instancji moore: 0.000000 
+
+ Czas wykonywania 50 instancji neh: 16739.000000 
+
+ Czas wykonywania edd: 0.000000 
+
+ Czas wykonywania moore: 0.000000 
+
+ Czas wykonywania neh: 334.780000 
+
+ --------------------------------- 
+
+ 50 instancji problemu po 500 zadan 
+
+ Czas podany w ms! 
+
+ Czas wykonywania 50 instancji edd: 0.000000 
+
+ Czas wykonywania 50 instancji moore: 0.000000 
+
+ Czas wykonywania 50 instancji neh: 25096.000000 
+
+ Czas wykonywania edd: 0.000000 
+
+ Czas wykonywania moore: 0.000000 
+
+ Czas wykonywania neh: 501.920000 

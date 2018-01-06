@@ -1,0 +1,122 @@
+
+
+------------------------------------------------
+
+Prim macierz 
+ Gestosc: 0.1 ilosc: 200 czas: 0.0188
+Gestosc: 0.1 ilosc: 400 czas: 0.2372
+Gestosc: 0.1 ilosc: 600 czas: 0.6626
+Gestosc: 0.1 ilosc: 800 czas: 1.275
+Gestosc: 0.1 ilosc: 1000 czas: 2.2908
+Gestosc: 0.1 ilosc: 1200 czas: 3.7872
+Gestosc: 0.1 ilosc: 1400 czas: 6.1878
+Gestosc: 0.1 ilosc: 1600 czas: 9.0748
+Gestosc: 0.1 ilosc: 1800 czas: 12.95
+
+----------------
+
+
+------------------------------------------------
+
+Prim lista  
+Gestosc: 0.1 ilosc: 200 czas: 0.003
+Gestosc: 0.1 ilosc: 400 czas: 0.0624
+Gestosc: 0.1 ilosc: 600 czas: 0.1592
+Gestosc: 0.1 ilosc: 800 czas: 0.0722
+Gestosc: 0.1 ilosc: 1000 czas: 0.0876
+Gestosc: 0.1 ilosc: 1200 czas: 0.1028
+Gestosc: 0.1 ilosc: 1400 czas: 0.125
+Gestosc: 0.1 ilosc: 1600 czas: 0.1628
+Gestosc: 0.1 ilosc: 1800 czas: 0.1874
+
+----------------
+
+
+------------------------------------------------
+
+Kruskal macierz  Gestosc: 0.1 ilosc: 200 czas: 0.0532
+Gestosc: 0.1 ilosc: 400 czas: 0.5124
+Gestosc: 0.1 ilosc: 600 czas: 1.6032
+Gestosc: 0.1 ilosc: 800 czas: 3.6344
+Gestosc: 0.1 ilosc: 1000 czas: 6.9688
+Gestosc: 0.1 ilosc: 1200 czas: 11.9344
+Gestosc: 0.1 ilosc: 1400 czas: 18.9404
+Gestosc: 0.1 ilosc: 1600 czas: 28.1122
+Gestosc: 0.1 ilosc: 1800 czas: 40.5092
+
+----------------
+
+
+------------------------------------------------
+
+Kruskal lista  Gestosc: 0.1 ilosc: 200 czas: 0.0094
+Gestosc: 0.1 ilosc: 400 czas: 0.0814
+Gestosc: 0.1 ilosc: 600 czas: 0.1344
+Gestosc: 0.1 ilosc: 800 czas: 0.125
+Gestosc: 0.1 ilosc: 1000 czas: 0.1998
+Gestosc: 0.1 ilosc: 1200 czas: 0.2654
+Gestosc: 0.1 ilosc: 1400 czas: 0.3844
+Gestosc: 0.1 ilosc: 1600 czas: 0.4562
+Gestosc: 0.1 ilosc: 1800 czas: 0.575
+
+----------------
+
+
+------------------------------------------------
+
+Dij macierz  Gestosc: 0.1 ilosc: 200 czas: 0.003
+Gestosc: 0.1 ilosc: 400 czas: 0.0032
+Gestosc: 0.1 ilosc: 600 czas: 0.0032
+Gestosc: 0.1 ilosc: 800 czas: 0.0094
+Gestosc: 0.1 ilosc: 1000 czas: 0.0062
+Gestosc: 0.1 ilosc: 1200 czas: 0
+Gestosc: 0.1 ilosc: 1400 czas: 0.0156
+Gestosc: 0.1 ilosc: 1600 czas: 0.0186
+Gestosc: 0.1 ilosc: 1800 czas: 0.0154
+
+----------------
+
+
+------------------------------------------------
+
+Dij lista  Gestosc: 0.1 ilosc: 200 czas: 0
+Gestosc: 0.1 ilosc: 400 czas: 0
+Gestosc: 0.1 ilosc: 600 czas: 0
+Gestosc: 0.1 ilosc: 800 czas: 0.0032
+Gestosc: 0.1 ilosc: 1000 czas: 0.0032
+Gestosc: 0.1 ilosc: 1200 czas: 0
+Gestosc: 0.1 ilosc: 1400 czas: 0.0032
+Gestosc: 0.1 ilosc: 1600 czas: 0
+Gestosc: 0.1 ilosc: 1800 czas: 0.0032
+
+----------------
+
+
+------------------------------------------------
+
+Ford macierz  Gestosc: 0.1 ilosc: 200 czas: 0.0312
+Gestosc: 0.1 ilosc: 400 czas: 0.2782
+Gestosc: 0.1 ilosc: 600 czas: 0.8902
+Gestosc: 0.1 ilosc: 800 czas: 2.1566
+Gestosc: 0.1 ilosc: 1000 czas: 4.228
+Gestosc: 0.1 ilosc: 1200 czas: 7.275
+Gestosc: 0.1 ilosc: 1400 czas: 11.6284
+Gestosc: 0.1 ilosc: 1600 czas: 17.6094
+Gestosc: 0.1 ilosc: 1800 czas: 26.8782
+
+----------------
+
+
+------------------------------------------------
+
+Ford lista  Gestosc: 0.1 ilosc: 200 czas: 0.0062
+Gestosc: 0.1 ilosc: 400 czas: 0.022
+Gestosc: 0.1 ilosc: 600 czas: 0.0468
+Gestosc: 0.1 ilosc: 800 czas: 0.078
+Gestosc: 0.1 ilosc: 1000 czas: 0.144
+Gestosc: 0.1 ilosc: 1200 czas: 0.1782
+Gestosc: 0.1 ilosc: 1400 czas: 0.2496
+Gestosc: 0.1 ilosc: 1600 czas: 0.319
+Gestosc: 0.1 ilosc: 1800 czas: 0.4154
+
+----------------

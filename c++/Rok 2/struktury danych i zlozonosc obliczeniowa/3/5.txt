@@ -1,0 +1,9 @@
+Dij lista  Gestosc: 1 ilosc: 200 czas: 0
+Dij lista  Gestosc: 1 ilosc: 400 czas: 0.0015
+Dij lista  Gestosc: 1 ilosc: 600 czas: 0.0016
+Dij lista  Gestosc: 1 ilosc: 800 czas: 0.0015
+Dij lista  Gestosc: 1 ilosc: 1000 czas: 0.0015
+Dij lista  Gestosc: 1 ilosc: 1200 czas: 0.0016
+Dij lista  Gestosc: 1 ilosc: 1400 czas: 0.0016
+Dij lista  Gestosc: 1 ilosc: 1600 czas: 0.0048
+Dij lista  Gestosc: 1 ilosc: 1800 czas: 0.0078

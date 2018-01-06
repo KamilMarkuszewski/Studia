@@ -1,0 +1,9 @@
+Kruskal lista  Gestosc: 1 ilosc: 200 czas: 0.0108
+Kruskal lista  Gestosc: 1 ilosc: 400 czas: 0.0485
+Kruskal lista  Gestosc: 1 ilosc: 600 czas: 0.1079
+Kruskal lista  Gestosc: 1 ilosc: 800 czas: 0.1845
+Kruskal lista  Gestosc: 1 ilosc: 1000 czas: 0.2985
+Kruskal lista  Gestosc: 1 ilosc: 1200 czas: 0.4171
+Kruskal lista  Gestosc: 1 ilosc: 1400 czas: 0.5906
+Kruskal lista  Gestosc: 1 ilosc: 1600 czas: 0.7594
+Kruskal lista  Gestosc: 1 ilosc: 1800 czas: 0.9687

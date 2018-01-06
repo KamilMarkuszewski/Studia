@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>komunikator</label>
+	</settings>
+	<users>
+		<user>
+			<path>komunikator.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>komunikator.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,21 @@
+
+-----------------
+ Rozmiar plecaka: 2000
+ Ilosc elementow: 65000 Pomiar: 1.9719
+ Ilosc elementow: 70000 Pomiar: 2.1062
+ Ilosc elementow: 75000 Pomiar: 2.2702
+ Ilosc elementow: 80000 Pomiar: 2.3875
+
+-----------------
+ Rozmiar plecaka: 4000
+ Ilosc elementow: 65000 Pomiar: 4.0921
+ Ilosc elementow: 70000 Pomiar: 4.4126
+ Ilosc elementow: 75000 Pomiar: 4.7438
+ Ilosc elementow: 80000 Pomiar: 5.0453
+
+-----------------
+ Rozmiar plecaka: 6000
+ Ilosc elementow: 65000 Pomiar: 6.3482
+ Ilosc elementow: 70000 Pomiar: 6.9033
+ Ilosc elementow: 75000 Pomiar: 13.0174
+ Ilosc elementow: 80000 Pomiar: 31.0892
